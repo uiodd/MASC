@@ -27,7 +27,8 @@ Download the preprocessed datasets and put them into `dataset/`.
 
 - [DAIC-WOZ](https://dcapswoz.ict.usc.edu/)
   Download the preprocessed datasets and put them into `dataset/`.
-  Please note that the dataset used in this study is available for academic research only and requires approval before downloading. Once approved, you will be provided with a download link and further usage instructions. Specifically, the DAIC-WOZ dataset was accessed under a signed data use agreement with the University of Southern California. All data were de-identified by the original providers to protect participant privacy, and our experimental procedures strictly followed the prescribed ethical guidelines and safety protocols.
+
+Please note that the dataset used in this study is available for academic research only and requires approval before downloading. Once approved, you will be provided with a download link and further usage instructions. Specifically, the DAIC-WOZ dataset was accessed under a signed data use agreement with the University of Southern California. All data were de-identified by the original providers to protect participant privacy, and our experimental procedures strictly followed the prescribed ethical guidelines and safety protocols.
 
 ## Train
 Please follow the steps below in order to be able to train our models:
